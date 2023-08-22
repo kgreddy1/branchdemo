@@ -1,0 +1,5 @@
+create a branch
+git checkout -b "branchname" 
+   - creates and switches the branch
+git checkout "branchname" 
+   - switches the branch
