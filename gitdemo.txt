@@ -1,0 +1,10 @@
+git init - creates the working directory 
+git status - know the status of working directory 
+git add <file_name> - add files to the staging area.
+git commit -m "Message" - commits all files form staging area to local rep
+
+https://github.com/kgreddy1/branchdemo.git
+
+git checkout -b "branchname" -- used to create a new branch 
+git checkout "branchname" -- used to navigate to branchname -- permissions
+
